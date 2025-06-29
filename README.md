@@ -33,7 +33,7 @@ Este repositorio contiene los trabajos realizados durante el curso de **Deep Lea
 
 ### 4. 💬 Modelo de Diálogo (Transformer con DailyDialog)
 - **Modelo**: Transformer (codificador-decodificador).
-- **Dataset**: [DailyDialog](http://yanran.li/dailydialog).
+- **Dataset**: DailyDialog.
 - **Características**:
   - Generación de respuestas automáticas tipo chatbot.
   - Evaluación con métricas BLEU y ROUGE.
